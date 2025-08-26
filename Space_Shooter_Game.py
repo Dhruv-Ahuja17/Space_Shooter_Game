@@ -311,3 +311,7 @@ def move():
 
 move()
 turtle.done()
+
+
+# Add what each & every function does 
+
